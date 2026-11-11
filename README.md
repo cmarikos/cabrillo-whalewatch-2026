@@ -1,0 +1,1 @@
+This is an obsidian repo, the crosslinks and images will look weird.
