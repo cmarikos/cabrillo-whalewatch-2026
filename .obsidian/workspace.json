@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e3a53fc596993d15",
+    "type": "split",
+    "children": [
+      {
+        "id": "09df308bac8523ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ae12a889478c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac9af11f6526be22",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab42594bda64cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d44bd3059080e79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84ae479447c5c04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "797f14b78a3b1865",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9a235803435c7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffda3a41c78ac343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "277d6c4df64c0e4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-11-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-11-10"
+            }
+          },
+          {
+            "id": "197d74fe3e329923",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-11-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-11-10"
+            }
+          },
+          {
+            "id": "4c10e3a07b9bb99d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb8adbc766eed542",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c84d05f8ad160cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-11-10.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-11-10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "90ae12a889478c5d",
+  "lastOpenFiles": [
+    "2026-11-03.md",
+    "2026-10-20.md",
+    "2026-10-13.md",
+    "2026-11-10.md",
+    "El Niňo.md",
+    "Schedule.md",
+    "King Tides.md",
+    "images/Brown_pelican_in_flight_(Bodega_Bay).jpg",
+    "images/image (1).png",
+    "Demoic Acid.md",
+    "images/Screenshot 2026-10-20 at 7.45.23 PM.png",
+    "images/Screenshot 2026-10-20 at 7.44.14 PM.png",
+    "images/Screenshot 2026-10-20 at 7.35.44 PM.png",
+    "images/image.png",
+    "images",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
