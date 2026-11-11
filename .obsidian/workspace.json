@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2026-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-11-10"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2026-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2026-11-10"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2026-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 2026-11-10"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "2026-11-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2026-11-10"
             }
           }
         ]
@@ -183,15 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "90ae12a889478c5d",
+  "active": "0d44bd3059080e79",
   "lastOpenFiles": [
+    "images/whale_evo (1).jpg",
+    "Schedule.md",
     "2026-11-10.md",
     "README.md",
     "2026-11-03.md",
     "2026-10-20.md",
     "2026-10-13.md",
     "El Niňo.md",
-    "Schedule.md",
     "King Tides.md",
     "images/Brown_pelican_in_flight_(Bodega_Bay).jpg",
     "images/image (1).png",
